@@ -1,1 +1,1 @@
-# TheQuiz Java Edition"
+# TheQuiz Java Edition
