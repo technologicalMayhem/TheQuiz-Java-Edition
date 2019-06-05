@@ -1,0 +1,130 @@
+[  
+   {  
+      "Title":"Wer war der erste Präsident der Vereinigten Staaten von Amerika?",
+      "AnswerA":"George Wahington",
+      "AnswerB":"Abraham Lincoln",
+      "AnswerC":"Thomas Jefferson",
+      "AnswerD":"James Monroe",
+      "CorrectAnswer":"1"
+   },
+   {  
+      "Title":"Wie viel Quadratkilometer Fläche hat Deutschland?",
+      "AnswerA":"147.897 km²",
+      "AnswerB":"357.376 km²",
+      "AnswerC":"243.187 km²",
+      "AnswerD":"301.487 km²",
+      "CorrectAnswer":"2"
+   },
+   {  
+      "Title":"Aus welcher Mythologie stammt der die magische Waffe \"Mjölnir\"?",
+      "AnswerA":"Griechisch",
+      "AnswerB":"Jüdisch",
+      "AnswerC":"Nordisch",
+      "AnswerD":"Finnisch",
+      "CorrectAnswer":"3"
+   },
+   {  
+      "Title":"Welcher dieser Flüsse mündet in das schwarze Meer?",
+      "AnswerA":"Rhein",
+      "AnswerB":"Donau",
+      "AnswerC":"Ems",
+      "AnswerD":"Main",
+      "CorrectAnswer":"2"
+   },
+   {  
+      "Title":"Wie heißt das flächengrößte Land der Welt?",
+      "AnswerA":"Kanada",
+      "AnswerB":"China",
+      "AnswerC":"USA",
+      "AnswerD":"Russland",
+      "CorrectAnswer":"4"
+   },
+   {  
+      "Title":"Was ist ein Bungalow?",
+      "AnswerA":"Ein kleines Haus mit nicht mehr als einem Zimmer",
+      "AnswerB":"Ein Haus mit nur einem Stockwerk",
+      "AnswerC":"Eine Haus das um Kosten niedrig zu halten kostengünstig gebaut wurde",
+      "AnswerD":"Ein Haus mit einem Flachdach",
+      "CorrectAnswer":"2"
+   },
+   {  
+      "Title":"Wie heißt der breiteste Fluss der Welt?",
+      "AnswerA":"Wolga",
+      "AnswerB":"Nil",
+      "AnswerC":"Amazonas",
+      "AnswerD":"Rhein",
+      "CorrectAnswer":"3"
+   },
+   {  
+      "Title":"Welches dieser Teilchen gehört nicht zu einem gewöhnlichen Atom?",
+      "AnswerA":"Neutron",
+      "AnswerB":"Elektron",
+      "AnswerC":"Positron",
+      "AnswerD":"Proton",
+      "CorrectAnswer":"3"
+   },
+   {  
+      "Title":"Wofür steht die Abkürzung IP?",
+      "AnswerA":"Internet Protocol",
+      "AnswerB":"Identification Port",
+      "AnswerC":"Intergrated Port",
+      "AnswerD":"Internet Parser",
+      "CorrectAnswer":"1"
+   },
+   {  
+      "Title":"Wo liegen die Goldvorräte der USA?",
+      "AnswerA":"Pentagon",
+      "AnswerB":"Im amerikanischem Finanzministerium",
+      "AnswerC":"Fort Knox",
+      "AnswerD":"Unbekannt",
+      "CorrectAnswer":"3"
+   },
+   {  
+      "Title":"Auf welche Stadt wurde die erste Atomwaffe abgefeuert?",
+      "AnswerA":"Fukushima",
+      "AnswerB":"Peking",
+      "AnswerC":"Wutunisha",
+      "AnswerD":"Hiroshima",
+      "CorrectAnswer":"4"
+   },
+   {  
+      "Title":"Für welches Element steht die Abkürzung \"AU\"?",
+      "AnswerA":"Wasserstoff",
+      "AnswerB":"Gold",
+      "AnswerC":"Eisen",
+      "AnswerD":"Kohlenstoff",
+      "CorrectAnswer":"2"
+   },
+   {  
+      "Title":"Wie heißt der Palast der britischen Königsfamilie?",
+      "AnswerA":"Windsor Palace",
+      "AnswerB":"Buckingham Palace",
+      "AnswerC":"Bermingham Palace",
+      "AnswerD":"Royal Palace",
+      "CorrectAnswer":"2"
+   },
+   {  
+      "Title":"Welchen Beruf hatte der Erfinder der Guillotine?",
+      "AnswerA":"Henker",
+      "AnswerB":"Schmied",
+      "AnswerC":"Ingenieur",
+      "AnswerD":"Arzt",
+      "CorrectAnswer":"4"
+   },
+   {  
+      "Title":"Wie weit ist die Sonne von der Erde in Lichtminuten entfernt?",
+      "AnswerA":"6",
+      "AnswerB":"8",
+      "AnswerC":"10",
+      "AnswerD":"12",
+      "CorrectAnswer":"2"
+   },
+   {  
+      "Title":"Wer ist der Autor der Harry Potter Bücher?",
+      "AnswerA":"Russell T. Davies",
+      "AnswerB":"George Lucas",
+      "AnswerC":"James Cameron",
+      "AnswerD":"J. K. Rowling",
+      "CorrectAnswer":"4"
+   }
+]
